@@ -150,7 +150,7 @@ Este es el código exacto que se necesita para que el contenido del sitio web es
 ### Left Sidebar fija.
 ***
 
-Las barras laterales a la izquierda fijas son geniales cuando tienes una pantalla ancha (landscape).  Puedes tener un menú, publicidad, hoja informativa invitándote a participar y a inscribirte, formulario de registro, etc.  Pero aun queda suficiente espacio para el contenido.  En la actualidad, casi todas las páginas web usan barras laterales a la izquierda fijas, algunas también tienen barras a la derecha fijas.
+Las barras laterales a la izquierda fijas son geniales cuando tienes una pantalla ancha (landscape).  Puedes tener un menú, publicidad, hoja informativa invitándote a participar y a inscribirte, formulario de registro, etc. Pero aun queda suficiente  espacio para el contenido.  En la actualidad, casi todas las páginas web usan barras laterales a la izquierda fijas, algunas también tienen barras a la derecha fijas.
 
 De hecho, en este pre-work la barra está a la izquierda.  Es la mejor opción para nosotros porque queremos tener el contenido siempre disponible para ti.
 
